@@ -1,0 +1,158 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Am Actually",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/Am%20Actually.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/Am%20Actually.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"DontTrustrock",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/DontTrustrock.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/DontTrustrock.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Entity",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/Entity.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/Entity.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Entity2",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/Entity2.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/Entity2.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Entity4",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/Entity4.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/Entity4.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":6,
+      "name":"Entity555",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/Entity555.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/Entity555.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":7,
+      "name":"RUN Hes coming",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/RUN%20Hes%20coming.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/RUN%20Hes%20coming.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":8,
+      "name":"entity3",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/entity3.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/entity3.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":9,
+      "name":"nextbot1",
+      "category":"Mods",
+      "image":"https://archive.org/download/nextb/nextbot1.jpg",
+      "download":"https://ia601609.us.archive.org/31/items/nextb/nextbot1.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":10,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":11,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":12,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":13,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":14,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":15,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    }
+	 ]
+}

@@ -1,0 +1,158 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Bloomy 2 melsave",
+      "category":"Mods",
+      "image":"https://archive.org/download/bloomymod/BLOOMY%202%20melsave.jpg",
+      "download":"https://ia601608.us.archive.org/22/items/bloomymod/BLOOMY%202%20melsave.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"Bloomy Bob",
+      "category":"Mods",
+      "image":"https://archive.org/download/bloomymod/BLOOMY%20BOB%20CHARACTERS%20.jpg",
+      "download":"https://ia801608.us.archive.org/22/items/bloomymod/BLOOMY%20BOB%20CHARACTERS%20.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Bloomy Mod",
+      "category":"Mods",
+      "image":"https://archive.org/download/bloomymod/bloomy%20trub%20mod.jpg",
+      "download":"https://ia801608.us.archive.org/22/items/bloomymod/bloomy%20trub%20mod.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Bloomy",
+      "category":"Mods",
+      "image":"https://archive.org/download/bloomymod/bloomy.jpg",
+      "download":"https://ia601608.us.archive.org/22/items/bloomymod/bloomy.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Bloomy Save",
+      "category":"Mods",
+      "image":"https://archive.org/download/bloomymod/bloomy%20trub%20saves.jpg",
+      "download":"https://ia801608.us.archive.org/22/items/bloomymod/bloomy%20trub%20saves.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":6,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":7,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":8,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":9,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":10,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":11,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":12,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":13,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":14,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":15,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    }
+	 ]
+}
